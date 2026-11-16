@@ -1,0 +1,11 @@
+{
+  "name": "batalha-naval",
+  "version": "1.0.0",
+  "description": "Casos de teste para Batalha Naval (tabuleiro 10 x 10)",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
